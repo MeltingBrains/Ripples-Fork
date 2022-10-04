@@ -75,6 +75,7 @@ public class ModStandTypes {
                             },
                     new StandAction[] {
                             ModActions.THE_WORLD_BLOCK.get(), 
+                            ModActions.STAR_PLATINUM_ZOOM.get(), 
                             ModActions.THE_WORLD_TIME_STOP.get()
                             },
                     TimeStopperStandStats.class, new TimeStopperStandStats.Builder()
